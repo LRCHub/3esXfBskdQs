@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "トゥ トゥ トゥ！",
+  "base_artist": "Liella!",
+  "createdAt": "2025-12-14T05:30:49.324116Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トゥ トゥ トゥ！",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/01_トゥ_トゥ_トゥ!_Liella!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トゥトゥトゥ!",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_トゥトゥトゥ!_Liella!.txt"
+    }
+  ]
+}
